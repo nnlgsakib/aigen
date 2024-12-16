@@ -1,0 +1,1 @@
+./aigen start   --pruning=nothing    --log_level info   --minimum-gas-prices=0.1uaigent   --json-rpc.api eth,txpool,personal,net,debug,web3   --json-rpc.enable true   --home node  

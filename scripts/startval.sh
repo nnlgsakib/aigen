@@ -1,0 +1,1 @@
+./aigen start --home val1 --log_level info --minimum-gas-prices=0.0001aNLG   --grpc.address="0.0.0.0:9090" --grpc-web.enable=false   --rpc.laddr="tcp://0.0.0.0:26659"   --rpc.pprof_laddr="localhost:6061"   --p2p.laddr="tcp://0.0.0.0:26666" --api.address "tcp://localhost:1318" --p2p.persistent_peers="f5204f0e776a10fba872d38fc85f3a811048d796@0.0.0.0:26656"

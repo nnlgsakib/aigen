@@ -1,0 +1,1 @@
+./aigen tx bank send localkey $(./aigen keys show val1 -a --keyring-backend os --home val1) 3000000000000000000uaigent   --chain-id aigentest_3234423-1   --fees 2000uaigent   --home node   --keyring-backend os   --yes
