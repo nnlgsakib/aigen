@@ -191,7 +191,7 @@
             "signer_infos": [
               {
                 "public_key": {
-                  "@type": "/aigen.crypto.v1.ethsecp256k1.PubKey",
+                  "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
                   "key": "AwqZQBHvUDsICiuxhgCxNoUCMtR+6vt46s21/Nb8DPU0"
                 },
                 "mode_info": {
